@@ -1,0 +1,15 @@
+torch
+torchvision
+ultralytics
+transformers
+opencv-python
+numpy
+pandas
+matplotlib
+seaborn
+Pillow
+scikit-learn
+tqdm
+pycocotools
+PyYAML
+requests
