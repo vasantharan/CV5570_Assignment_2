@@ -1,5 +1,3 @@
-torch
-torchvision
 ultralytics
 transformers
 opencv-python
@@ -13,3 +11,5 @@ tqdm
 pycocotools
 PyYAML
 requests
+ipykernel
+torchmetrics
