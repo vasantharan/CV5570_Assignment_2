@@ -7,7 +7,6 @@ __pycache__/
 *.so
 
 # Distribution / packaging
-*.pkl
 .Python
 build/
 develop-eggs/
@@ -217,3 +216,4 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+*.pkl
