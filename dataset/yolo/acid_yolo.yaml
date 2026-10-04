@@ -1,0 +1,8 @@
+path: D:\CV5570\CV5570_Assignment_2\dataset\yolo
+train: images/train
+val: images/val
+test: images/test
+names:
+  0: Excavator
+  1: Dozer
+  2: Dump Truck
